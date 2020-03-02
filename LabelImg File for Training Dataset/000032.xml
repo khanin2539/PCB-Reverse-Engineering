@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>000032.jpg</filename>
+	<path>C:\Users\udomc\Anaconda3\DL-CV-TF-Keras_Resources\6-Transfer_Learning\models-master\research\object_detection\images\train1\000032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SMD resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>1</ymin>
+			<xmax>658</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>

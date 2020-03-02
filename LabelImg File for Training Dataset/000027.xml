@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train1</folder>
+	<filename>000027.jpg</filename>
+	<path>C:\Users\udomc\Anaconda3\DL-CV-TF-Keras_Resources\6-Transfer_Learning\models-master\research\object_detection\images\train1\000027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SMD capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>147</ymin>
+			<xmax>333</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SMD capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>140</ymin>
+			<xmax>630</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
